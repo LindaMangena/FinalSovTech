@@ -10,14 +10,13 @@ import {
     FooterLink,
     SocialMedia, 
          SocialMediaWrap,
-         SocialLogo, 
+         
          WebsiteRights, 
-         SocialIcons, 
-         SocialIconLink,
+         
          Img
          
         }from './FooterElements'
-        import { FaInstagram,FaTwitter,FaFacebook} from 'react-icons/fa'
+        
 
 const Footer = () => {
     return (

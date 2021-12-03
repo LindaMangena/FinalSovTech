@@ -1,6 +1,5 @@
 import React from 'react'
-import {Link as linkR} from 'react-scroll';
-import {Link as LinkS} from 'react-router-dom';
+
 import {
     SidebarContainer, 
     Icon, 

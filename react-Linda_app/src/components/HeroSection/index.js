@@ -1,9 +1,8 @@
-import React, { useState } from 'react'; 
-// import React from 'react' 
-import { Button } from '../ButtonElements'
+
+
 import gatsbyIcon from "../../images/icon.png";
 
-import signin from '../Signin/Signin'
+
 
 // import {Img}  
 import {
@@ -18,7 +17,7 @@ import {
 } from "./HeroElements";
 
 const HeroSection = () => {
-    const [hover, setHover] = useState(false)
+    // const [] = useState(false)
 
     // const onHover = () => {
     //     setHover(!hover)
